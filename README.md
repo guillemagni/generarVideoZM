@@ -8,5 +8,5 @@ El script está totalmente en [Python 3](https://www.python.org/). Se deben inst
 * [tqdm](https://pypi.org/project/tqdm/)
 
 Nota: en caso de correr en Windows, recordar la diferencia de path que usan los sistemas (\\).
-Por ejemplo: C:\\Users\\Usuario\\CarpetaZM
+Por ejemplo: C:\\\\Users\\\\Usuario\\\\CarpetaZM
 
