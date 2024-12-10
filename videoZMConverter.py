@@ -30,10 +30,8 @@ def generarVideo(fotos, video, fps):
 if __name__ == "__main__":
     print()
     print("### Generador de video Zone Minder ###")
-    nombre = ("Ingrese el nombre que desee para el video: ")
-
-    #Modificar el path por la carpeta donde se encuentren las imagenes del evento
-    path_carpeta = "path"
+    nombre = input("Ingrese el nombre que desee para el video: ")
+    path_carpeta = input("Ingrese el path de la carpeta donde se encuentran las imágenes: ")
     path_video =  nombre + ".mp4"
     fps = 30
 
